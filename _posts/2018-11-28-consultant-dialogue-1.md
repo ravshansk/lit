@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Типичный диалог с клиентом
-lang: russian
-categ: blogru
 ---
 
 --- Ты консультант?  
